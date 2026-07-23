@@ -175,9 +175,6 @@ Example:
 ```
 screenshots/home.png
 ```
-
-or drag and drop an image into GitHub after uploading.
-
 ---
 
 ## ❌ Error Handling
